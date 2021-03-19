@@ -4,7 +4,7 @@ public class typeCasting {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//implicit conversion
+		//Implicit conversion
 				System.out.println("Implicit Type Casting");
 				char a='H';
 				System.out.println("Value of a: "+a);
@@ -20,7 +20,7 @@ public class typeCasting {
 						
 				System.out.println("\n");
 				
-				//explicit conversion
+		//Explicit conversion
 				System.out.println("Explicit Type Casting");
 				double x=85.5;
 				int y=(int)x;
