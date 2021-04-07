@@ -8,6 +8,6 @@ public class methodExecution {
 	public static void main(String[] args) {
 		methodExecution b=new methodExecution();
 		int ans= b.multiplynumbers(45,5);
-	System.out.println("Multipilcation is : "+ans);
+		System.out.println("Multipilcation is : "+ans);
 	}
 }
